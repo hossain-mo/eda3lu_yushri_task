@@ -1,0 +1,21 @@
+{
+    "name": "hossain_mo/edfa3ly_yashry",
+    "description": "This package holds the implementation of the home task",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "hossain-mo",
+        "email": "hossainfcih@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "App\\": "src/"
+      }
+    },
+    "require": {
+      "ext-mbstring": "*",
+      "ext-json": "*"
+    }
+  }
