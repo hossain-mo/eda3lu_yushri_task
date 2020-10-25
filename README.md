@@ -7,7 +7,7 @@ These instructions will get you a copy of the REST API running on your local mac
 
 # Test the API
 1- run (php -S localhost:8000) command inside src file <br/>
-2- download postman collection attached with email and play with the request
+2- download postman collection attached with the repo files called (edfa3ly_yushry_task.postman_collection.json) and play with the request
 
 ## Description of the problem and solution
 manage product and offers proccess
