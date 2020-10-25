@@ -6,7 +6,7 @@ header("Access-Control-Allow-Credentials: true");
 header('Content-Type: application/json');
 
 
-require_once 'E:/hossain/DesignPattern/vendor/autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 use App\ProductModule\CardBuilderProxy;
 use App\OfferModule\OfferFactory;
 
